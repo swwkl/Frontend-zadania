@@ -1,0 +1,13 @@
+html {
+  min-height: 100%;
+  }
+  body {
+  min-height: 100%;
+  margin: 0;
+  background-color: #F8D8B6;
+  }
+  p{
+    margin: 100px 100px 50px 950px;
+    font-weight: bold;
+  }
+  
